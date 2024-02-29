@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "author": "Uri Shaked",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "wokwi-arduino-uno", "id": "uno", "top": 200, "left": 20, "attrs": {} },
+    {
+      "type": "wokwi-servo",
+      "id": "servo",
+      "top": 200,
+      "left": 400,
+      "attrs": { "hornColor": "black" }
+    },
+    {
+      "type": "wokwi-pushbutton",
+      "id": "btn1",
+      "top": 96.28,
+      "left": 134.33,
+      "attrs": { "color": "green" }
+    }
+  ],
+  "connections": [
+    [ "uno:9", "servo:PWM", "orange", [ "v-20", "*", "h0", "h-52" ] ],
+    [ "uno:5V", "servo:V+", "red", [ "v20", "h0", "*", "h-20" ] ],
+    [ "uno:GND.1", "servo:GND", "black", [ "v-28", "h240", "*", "h-20" ] ],
+    [ "uno:7", "btn1:2.r", "green", [ "v-76.53", "h-6.82" ] ],
+    [ "uno:GND.1", "btn1:1.l", "black", [ "v0" ] ]
+  ]
+}
