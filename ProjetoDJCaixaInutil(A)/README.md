@@ -1,6 +1,7 @@
 # SOBRE O PROJETO
 
 Feito por: **DJEDU28** (<https://github.com/djedu28>)
+Publicado em: https://github.com/djedu28/CaixaInutil
 
 ## PROGRAMA e ESQUEMA DE MONTAGEM
 
@@ -80,8 +81,10 @@ https://wokwi.com/projects/331016420533994066
 
 ## da programação:
 
-* Idealizado por @DjEdu28
-* Em: 29/02/2024
+# SOBRE O PROJETO
+
+Feito por: **DJEDU28** (<https://github.com/djedu28>)
+Publicado em: https://github.com/djedu28/CaixaInutil
 
 ### Caixa Inutil Nivel 1
 

@@ -1,6 +1,7 @@
 # SOBRE O PROJETO
 
 Feito por: **DJEDU28** (<https://github.com/djedu28>)
+Publicado em: https://github.com/djedu28/CaixaInutil
 
 ## PROGRAMA e ESQUEMA DE MONTAGEM
 
