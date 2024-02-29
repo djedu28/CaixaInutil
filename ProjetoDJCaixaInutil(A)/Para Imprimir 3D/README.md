@@ -42,7 +42,7 @@ https://wokwi.com/projects/331016420533994066
 
 **AVISO:** se não tiver PLA, pode imprimir com PETG, precisa aumentar manualmente a temperatura  do bico para 240° e reduzir a velocidade para 80%, ou menos, podendo reduzir até 60% dependendo da necessidade (se falhar)
 
-#### São dois arquivos GCODE
+#### São tres arquivos GCODE
 
 1. DJE3H_0.4_cx_case_DJ3D_PLA_5h5min_-_RS3.5_38g.gcode
 2. DJE3H_0.4_cx_tampas_DJ3D_PLA_0h34min_-_RS0.4_4g.gcode
